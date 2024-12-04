@@ -357,8 +357,8 @@ section {
 }
 
 .project-card img {
-    max-width: 300px;
-    border-radius: 2em;
+    max-width: 400px;
+    border-radius: 1.5em;
     object-fit: cover;
 }
 
